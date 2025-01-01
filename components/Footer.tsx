@@ -5,7 +5,7 @@ const Footer = () => {
         <footer className="bg-black text-white pt-10">
             <div className="container mx-auto flex flex-col lg:flex-row justify-between items-center">
                 <div className="mb-5 md:mb-0 flex flex-col">
-                    <h3 className="text-center md:text-left text-[2.5rem] md:text-5xl font-bold mb-4">Let's Start Working Together!</h3>
+                    <h3 className="text-center md:text-left text-[2.5rem] md:text-5xl font-bold mb-4">Let&apos;s Start Working Together!</h3>
                     <p className='text-center px-4 md:px-0 md:text-left'>Get valuable strategy, culture and brand insights straight to your inbox.</p>
                     <div className="flex mt-4 mx-auto md:mx-0">
                         <input
